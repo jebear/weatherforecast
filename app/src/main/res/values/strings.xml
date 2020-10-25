@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Weather Forecast</string>
-    <string name="temperature_celcius">%.1f°C</string>
-    <string name="min_max_format">High %d°C / Low %d°C</string>
-</resources>
